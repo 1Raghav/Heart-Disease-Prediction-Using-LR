@@ -1,1 +1,2 @@
-# Heart-Disease-Prediction-Using-LR
+# HeartDiseasePrediction-LR-
+Heart Disease Prediction using Logistic Regression
